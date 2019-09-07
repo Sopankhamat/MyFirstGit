@@ -7,5 +7,6 @@ public class Test {
   private int zipCode;
   private String address;
   
+  
 
 }
